@@ -39,12 +39,15 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![exp6 1i](https://github.com/shivaa-palaniyappan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146915611/2e546bb9-dcab-471c-9d47-35d2a5fee3e1)
+
+![exp6 1ii](https://github.com/shivaa-palaniyappan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146915611/b641a6cf-f1a7-464a-9cbd-e14e3d11b39f)
+
+![exp6 1iii](https://github.com/shivaa-palaniyappan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146915611/ba0628e1-4b5f-4215-a631-97f3c392a09f)
+
 
 ## Output:
-![exp6 1iv](https://github.com/shivaa-palaniyappan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146915611/06426cee-f886-44b8-84cb-46a3edc801b9)
+![exp6 1iv](https://github.com/shivaa-palaniyappan/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/146915611/f7d9ac65-698d-41e9-bc3a-52e3aa04cb3d)
 
 ### Name:SHIVAA PALANIYAPPAN V
 ### Register Number:212223110050
